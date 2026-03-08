@@ -221,4 +221,4 @@ Contributions are greatly appreciated! To fix a bug or enhance an existing modul
 
 ## 📋 License
 
-This project is open source software licensed under the [MIT License](https://opensource.org/license/mit/).
+This project is open source software licensed under Saikat
