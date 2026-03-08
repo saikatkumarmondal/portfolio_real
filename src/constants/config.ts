@@ -40,13 +40,16 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Saikat Mondal — 3D Portfolio",
+    fullName: "Saikat Kumar Mondal",
+    email: "mondalsaikatkumar@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Saikat Mondal",
+    p: [
+  "Full Stack Developer specializing in MERN Stack and Next.js applications.",
+  "Experienced in building REST APIs with Express and Django, and developing responsive React interfaces."
+],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +70,11 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I help startups and businesses build fast, scalable, and maintainable web and mobile applications using modern architecture and optimized performance strategies.
+
+From dynamic React/Next.js frontends and secure Node.js or Django REST APIs to cross-platform mobile apps with React Native, I deliver clean code, reliable systems, and on-time results.
+
+Let’s build something impactful together.`,
     },
     experience: {
       p: "What I have done so far",
